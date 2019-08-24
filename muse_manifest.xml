@@ -1,0 +1,54 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.chocolate3.net" resolutions="1x" timestamp="1566624800247">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="everything.css" crc="3856380546" ref="everything"/>
+    <file name="index.css" crc="44006798" ref="index"/>
+    <file name="links---contact-info.css" crc="3850417926" ref="links---contact-info"/>
+    <file name="everything-live.css" crc="3769533448" ref="everything-live"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:everything:links---contact-info:everything-live"/>
+    <file name="museutils.js" crc="340535759" ref="index:everything:links---contact-info:everything-live"/>
+    <file name="whatinput.js" crc="86476730" ref="index:everything:links---contact-info:everything-live"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:everything:links---contact-info:everything-live"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:everything:links---contact-info:everything-live"/>
+    <file name="require.js" crc="7928878" ref="index:everything:links---contact-info:everything-live"/>
+  </folder>
+  <folder name="images">
+    <file name="album cover.jpg" crc="505119389" seo="true" ref="index:everything">
+      <caption webpage="index" alt=""/>
+      <caption webpage="everything" alt=""/>
+    </file>
+    <file name="cover.jpg" crc="52741660" seo="true" ref="index:everything-live">
+      <caption webpage="index" alt=""/>
+      <caption webpage="everything-live" alt=""/>
+    </file>
+    <file name="u265-4.png" crc="4201710525" ref="index"/>
+    <file name="u275-4.png" crc="4155200225" ref="everything"/>
+    <file name="u281-4.png" crc="401042438" ref="everything"/>
+    <file name="u284-15.png" crc="455715768" ref="everything"/>
+    <file name="u290-4.png" crc="4201710525" ref="everything"/>
+    <file name="u278-4.png" crc="246030423" ref="everything"/>
+    <file name="u300-14.png" crc="3805117212" ref="everything"/>
+    <file name="u293-4.png" crc="3817080872" ref="everything"/>
+    <file name="u254-5.png" crc="410368792" ref="index"/>
+    <file name="u303-4.png" crc="299368833" ref="index"/>
+    <file name="u335-4.png" crc="3817080872" ref="links---contact-info"/>
+    <file name="u359-4.png" crc="4191017164" ref="links---contact-info"/>
+    <file name="u362-4.png" crc="480488942" ref="links---contact-info"/>
+    <file name="u365-4.png" crc="3983068469" ref="links---contact-info"/>
+    <file name="u374-18.png" crc="516446410" ref="links---contact-info"/>
+    <file name="u334-4.png" crc="4201710525" ref="links---contact-info"/>
+    <file name="u384-4.png" crc="3817080872" ref="everything-live"/>
+    <file name="u382-4.png" crc="4155200225" ref="everything-live"/>
+    <file name="u388-4.png" crc="534658339" ref="everything-live"/>
+    <file name="u387-4.png" crc="3941499828" ref="everything-live"/>
+    <file name="u389-15.png" crc="512531435" ref="everything-live"/>
+    <file name="u381-14.png" crc="4258465137" ref="everything-live"/>
+    <file name="u383-4.png" crc="4201710525" ref="everything-live"/>
+  </folder>
+  <file name="index.html" crc="4220520017" seo="true" mt="1566624787206" redirect="true"/>
+  <file name="everything.html" crc="367482990" seo="true" mt="1566622766413" redirect="true"/>
+  <file name="links---contact-info.html" crc="184349053" seo="true" mt="1566624078628" redirect="true"/>
+  <file name="everything-live.html" crc="409089260" seo="true" mt="1566624340407" redirect="true"/>
+</manifest>
