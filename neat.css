@@ -13,7 +13,7 @@ html {
 }
 
 body {
-    background-image: url("stars3.gif");
+    background-image: url("site/bg/stars3.gif");
 	background-color: #cccccc
     margin: 0;
     max-width: 800px;
@@ -87,7 +87,7 @@ button {
 }
 
 .box {
-  background-image: url("greengrid.jpg");
+  background-image: url("site/bg/greengrid.jpg");
   border: 5px solid black;
   border-style: double;
   color: #fff;
